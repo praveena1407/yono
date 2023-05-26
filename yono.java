@@ -4,7 +4,7 @@ public class CodesCracker
 {
    public static void main(String[] args)
    {
-      int[] arrOne = new int[5];
+      int[] arrOne = new int[4];
       int[] arrTwo = new int[5];
       int i, j;
       Scanner s = new Scanner(System.in);
